@@ -1,6 +1,6 @@
 # Pac-Man Clone (Pygame)
 
-A simple Pac-Man-style game built with Python and Pygame.
+A simple Pac-Man-style game built with Python and Pygame using Object-Oriented Programming.
 
 ## 🎮 Features
 
@@ -35,7 +35,11 @@ python main.py
 
 ```
 pac-man/
+│── game.py
+│── ghost.py
+│── grid.py
 │── main.py
+│── player.py
 │── settings.py
 │── data/
 │   ├── pacman.txt
