@@ -2,7 +2,7 @@
 
 FPS = 60
 GAME_MAP = "data/mspacman.txt"
-# GAME_MAP = "data/pacman.txt"
+GAME_MAP = "data/pacman.txt"
 
 TILE_SIZE = 32
 PELLET_SIZE = 3
